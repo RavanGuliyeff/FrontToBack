@@ -1,0 +1,245 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\revan\\Desktop\\WebApplication2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A51118C9-877E-4601-9D26-7A61B7A19DE1}|WebApplication2.csproj|c:\\users\\revan\\desktop\\webapplication2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A51118C9-877E-4601-9D26-7A61B7A19DE1}|WebApplication2.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A51118C9-877E-4601-9D26-7A61B7A19DE1}|WebApplication2.csproj|c:\\users\\revan\\desktop\\webapplication2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A51118C9-877E-4601-9D26-7A61B7A19DE1}|WebApplication2.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A51118C9-877E-4601-9D26-7A61B7A19DE1}|WebApplication2.csproj|c:\\users\\revan\\desktop\\webapplication2\\models\\serviceslide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A51118C9-877E-4601-9D26-7A61B7A19DE1}|WebApplication2.csproj|solutionrelative:models\\serviceslide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A51118C9-877E-4601-9D26-7A61B7A19DE1}|WebApplication2.csproj|c:\\users\\revan\\desktop\\webapplication2\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A51118C9-877E-4601-9D26-7A61B7A19DE1}|WebApplication2.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A51118C9-877E-4601-9D26-7A61B7A19DE1}|WebApplication2.csproj|c:\\users\\revan\\desktop\\webapplication2\\viewmodels\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A51118C9-877E-4601-9D26-7A61B7A19DE1}|WebApplication2.csproj|solutionrelative:viewmodels\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A51118C9-877E-4601-9D26-7A61B7A19DE1}|WebApplication2.csproj|c:\\users\\revan\\desktop\\webapplication2\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A51118C9-877E-4601-9D26-7A61B7A19DE1}|WebApplication2.csproj|solutionrelative:dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A51118C9-877E-4601-9D26-7A61B7A19DE1}|WebApplication2.csproj|c:\\users\\revan\\desktop\\webapplication2\\models\\testimonialslide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A51118C9-877E-4601-9D26-7A61B7A19DE1}|WebApplication2.csproj|solutionrelative:models\\testimonialslide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A51118C9-877E-4601-9D26-7A61B7A19DE1}|WebApplication2.csproj|c:\\users\\revan\\desktop\\webapplication2\\models\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A51118C9-877E-4601-9D26-7A61B7A19DE1}|WebApplication2.csproj|solutionrelative:models\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A51118C9-877E-4601-9D26-7A61B7A19DE1}|WebApplication2.csproj|c:\\users\\revan\\desktop\\webapplication2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A51118C9-877E-4601-9D26-7A61B7A19DE1}|WebApplication2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A51118C9-877E-4601-9D26-7A61B7A19DE1}|WebApplication2.csproj|c:\\users\\revan\\desktop\\webapplication2\\webapplication2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A51118C9-877E-4601-9D26-7A61B7A19DE1}|WebApplication2.csproj|solutionrelative:webapplication2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A51118C9-877E-4601-9D26-7A61B7A19DE1}|WebApplication2.csproj|c:\\users\\revan\\desktop\\webapplication2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A51118C9-877E-4601-9D26-7A61B7A19DE1}|WebApplication2.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A51118C9-877E-4601-9D26-7A61B7A19DE1}|WebApplication2.csproj|c:\\users\\revan\\desktop\\webapplication2\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A51118C9-877E-4601-9D26-7A61B7A19DE1}|WebApplication2.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A51118C9-877E-4601-9D26-7A61B7A19DE1}|WebApplication2.csproj|c:\\users\\revan\\desktop\\webapplication2\\migrations\\20241120222353_addtables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A51118C9-877E-4601-9D26-7A61B7A19DE1}|WebApplication2.csproj|solutionrelative:migrations\\20241120222353_addtables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A51118C9-877E-4601-9D26-7A61B7A19DE1}|WebApplication2.csproj|c:\\users\\revan\\desktop\\webapplication2\\migrations\\20241120221346_addmemberstable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A51118C9-877E-4601-9D26-7A61B7A19DE1}|WebApplication2.csproj|solutionrelative:migrations\\20241120221346_addmemberstable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeVm.cs",
+              "DocumentMoniker": "C:\\Users\\revan\\Desktop\\WebApplication2\\ViewModels\\HomeVm.cs",
+              "RelativeDocumentMoniker": "ViewModels\\HomeVm.cs",
+              "ToolTip": "C:\\Users\\revan\\Desktop\\WebApplication2\\ViewModels\\HomeVm.cs",
+              "RelativeToolTip": "ViewModels\\HomeVm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T23:01:37.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TestimonialSlide.cs",
+              "DocumentMoniker": "C:\\Users\\revan\\Desktop\\WebApplication2\\Models\\TestimonialSlide.cs",
+              "RelativeDocumentMoniker": "Models\\TestimonialSlide.cs",
+              "ToolTip": "C:\\Users\\revan\\Desktop\\WebApplication2\\Models\\TestimonialSlide.cs",
+              "RelativeToolTip": "Models\\TestimonialSlide.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T22:19:57.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ServiceSlide.cs",
+              "DocumentMoniker": "C:\\Users\\revan\\Desktop\\WebApplication2\\Models\\ServiceSlide.cs",
+              "RelativeDocumentMoniker": "Models\\ServiceSlide.cs",
+              "ToolTip": "C:\\Users\\revan\\Desktop\\WebApplication2\\Models\\ServiceSlide.cs",
+              "RelativeToolTip": "Models\\ServiceSlide.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T22:19:43.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Member.cs",
+              "DocumentMoniker": "C:\\Users\\revan\\Desktop\\WebApplication2\\Models\\Member.cs",
+              "RelativeDocumentMoniker": "Models\\Member.cs",
+              "ToolTip": "C:\\Users\\revan\\Desktop\\WebApplication2\\Models\\Member.cs",
+              "RelativeToolTip": "Models\\Member.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T22:02:54.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\revan\\Desktop\\WebApplication2\\DAL\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "DAL\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\revan\\Desktop\\WebApplication2\\DAL\\AppDbContext.cs",
+              "RelativeToolTip": "DAL\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T22:01:49.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\revan\\Desktop\\WebApplication2\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\revan\\Desktop\\WebApplication2\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAAAB4AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T20:33:00.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\revan\\Desktop\\WebApplication2\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\revan\\Desktop\\WebApplication2\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAABQBAAAAAAAAAAAIwB4BAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-20T20:33:27.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\revan\\Desktop\\WebApplication2\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\revan\\Desktop\\WebApplication2\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-20T21:02:29.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20241120222353_AddTables.cs",
+              "DocumentMoniker": "C:\\Users\\revan\\Desktop\\WebApplication2\\Migrations\\20241120222353_AddTables.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241120222353_AddTables.cs",
+              "ToolTip": "C:\\Users\\revan\\Desktop\\WebApplication2\\Migrations\\20241120222353_AddTables.cs",
+              "RelativeToolTip": "Migrations\\20241120222353_AddTables.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T22:23:53.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20241120221346_AddMembersTable.cs",
+              "DocumentMoniker": "C:\\Users\\revan\\Desktop\\WebApplication2\\Migrations\\20241120221346_AddMembersTable.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241120221346_AddMembersTable.cs",
+              "ToolTip": "C:\\Users\\revan\\Desktop\\WebApplication2\\Migrations\\20241120221346_AddMembersTable.cs",
+              "RelativeToolTip": "Migrations\\20241120221346_AddMembersTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T22:13:47.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "WebApplication2.csproj",
+              "DocumentMoniker": "C:\\Users\\revan\\Desktop\\WebApplication2\\WebApplication2.csproj",
+              "RelativeDocumentMoniker": "WebApplication2.csproj",
+              "ToolTip": "C:\\Users\\revan\\Desktop\\WebApplication2\\WebApplication2.csproj",
+              "RelativeToolTip": "WebApplication2.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-20T22:02:33.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\revan\\Desktop\\WebApplication2\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\revan\\Desktop\\WebApplication2\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T20:35:07.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\revan\\Desktop\\WebApplication2\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\revan\\Desktop\\WebApplication2\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-20T20:34:40.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\revan\\Desktop\\WebApplication2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\revan\\Desktop\\WebApplication2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAIIAAAAAAAAAAAAAwI0AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-20T20:33:53.315Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
